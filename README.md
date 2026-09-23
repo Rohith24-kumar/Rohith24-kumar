@@ -143,24 +143,10 @@ Developing modern full-stack applications using frontend, backend, and database 
 - 🔧 Learn modern software development practices
 - 🤝 Contribute to open-source projects
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohithAchar&show_icons=true&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohithAchar&layout=compact&hide_border=true" height="180"/>
-</p>
 
 ---
 
-## 👀 Profile Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RohithAchar&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
 
 ## 🤝 Let's Connect
 
