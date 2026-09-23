@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Welcome to Rohith Kumar's Profile!
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZ0N3F5aWJ2eWZ3eGZ6Z3J4aWJ6N2V0bG9xN3F5dGJ6a2JtNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="100%" height="300px">
@@ -27,7 +25,7 @@ I enjoy learning new technologies, solving real-world problems, and building cle
     <img src="https://img.shields.io/badge/GitHub-RohithAchar-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/rohith-achar-bbb189311">
-    <img src="https://img.shields.io/badge/LinkedIn-Rohith%20Achar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Rohith%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -189,7 +187,7 @@ I'm always interested in learning, collaborating, and working on interesting sof
     <img src="https://img.shields.io/badge/GitHub-RohithAchar-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/rohith-achar-bbb189311">
-    <img src="https://img.shields.io/badge/LinkedIn-Rohith%20Achar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Rohith%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
