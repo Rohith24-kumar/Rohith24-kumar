@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-# 👋 Welcome to Rohith Achar's Profile!
+# 👋 Welcome to Rohith Kumar's Profile!
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZ0N3F5aWJ2eWZ3eGZ6Z3J4aWJ6N2V0bG9xN3F5dGJ6a2JtNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="100%" height="300px">
 
-## 👨‍💻 I'm Rohith Achar
+## 👨‍💻 I'm Rohith Kumar
 
 ### Full Stack Developer
 
