@@ -22,9 +22,9 @@ I enjoy learning new technologies, solving real-world problems, and building cle
 
 <p align="left">
   <a href="https://github.com/RohithAchar">
-    <img src="https://img.shields.io/badge/GitHub-RohithAchar-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Rohith24--kumar-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/rohith-achar-bbb189311">
+  <a href="https://www.linkedin.com/in/rohith-kumar-bbb189311">
     <img src="https://img.shields.io/badge/LinkedIn-Rohith%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -150,22 +150,6 @@ Developing modern full-stack applications using frontend, backend, and database 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RohithAchar&show_icons=true&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohithAchar&layout=compact&hide_border=true" height="180"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RohithAchar&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohithAchar&hide_border=true&area=true" />
 </p>
 
 ---
